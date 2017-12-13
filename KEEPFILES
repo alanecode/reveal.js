@@ -1,0 +1,14 @@
+.gitignore
+css/reveal.css
+css/theme/night.css
+css/theme/simple.css
+index.html
+js/reveal.js
+lib/css/zenburn.css
+lib/js/classList.js
+lib/js/head.min.js
+plugin/highlight/highlight.js
+plugin/markdown/markdown.js
+plugin/markdown/marked.js
+plugin/math/math.js
+plugin/notes/notes.js	
